@@ -1,5 +1,6 @@
 <?php
-namespace DevinCrossman\Mindbody;
+
+namespace Offspring\Mindbody;
 
 class MB_API
 {
