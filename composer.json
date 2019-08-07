@@ -1,10 +1,10 @@
 {
-    "name": "devincrossman/mindbody-php-api",
+    "name": "offspring/mindbody-php-api",
     "description": "A PHP wrapper for the MINDBODY Online API",
     "authors": [
         {
-            "name": "Devin Crossman",
-            "email": "devin@devincrossman.com"
+            "name": "tony",
+            "email": "tony@offspringdigital.com"
         }
     ],
     "license":"MIT",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DevinCrossman\\Mindbody\\": "src"
+            "Offspring\\Mindbody\\": "src"
         }
     }
 }
